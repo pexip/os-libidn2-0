@@ -1,7 +1,8 @@
 Source: libidn2-0
 Section: libs
-Maintainer: Debian Libidn team <help-libidn@gnu.org>
-Uploaders: Simon Josefsson <simon@josefsson.org>,
+Maintainer: Pexip AS <packaging@pexip.com>
+XSBC-Pexip-Original-Maintainer: Debian Libidn team <help-libidn@gnu.org>
+XSBC-Pexip-Original-Uploaders: Simon Josefsson <simon@josefsson.org>,
            Ondřej Surý <ondrej@debian.org>
 Build-Depends: debhelper (>= 9), dh-autoreconf, pkg-config, texinfo, texlive, help2man, gengetopt, libunistring-dev
 Standards-Version: 3.9.8
@@ -9,6 +10,7 @@ Priority: extra
 Homepage: https://www.gnu.org/software/libidn/#libidn2
 Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/libidn2.git
 Vcs-Git: https://anonscm.debian.org/git/collab-maint/libidn2.git
+XS-Pexip-Upstream: http://ftp.debian.org/debian/ stretch
 
 Package: libidn2-0
 Architecture: any

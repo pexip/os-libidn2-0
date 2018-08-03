@@ -1,3 +1,9 @@
+libidn2-0 (0.16-1+deb9u1pexip1) pexip; urgency=medium
+
+  * Prepare Pexip packaging
+
+ -- John-Mark Bell <jmb@pexip.com>  Fri, 03 Aug 2018 18:19:21 +0000
+
 libidn2-0 (0.16-1+deb9u1) stretch-security; urgency=high
 
   * CVE-2017-14062: Fix integer overflow in decode_digit (Closes: #873902)

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE book PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "">
+<book xmlns="http://www.devhelp.net/book" title="Libidn2 Reference Manual" link="index.html" author="" name="libidn2" version="2" language="c">
+  <chapters>
+    <sub name="Libidn2 Overview" link="libidn2.html">
+      <sub name="idn2" link="libidn2-idn2.html"/>
+    </sub>
+    <sub name="API Index" link="api-index-full.html"/>
+  </chapters>
+  <functions>
+    <keyword type="function" name="idn2_lookup_u8 ()" link="libidn2-idn2.html#idn2-lookup-u8"/>
+    <keyword type="function" name="idn2_register_u8 ()" link="libidn2-idn2.html#idn2-register-u8"/>
+    <keyword type="function" name="idn2_lookup_ul ()" link="libidn2-idn2.html#idn2-lookup-ul"/>
+    <keyword type="function" name="idn2_register_ul ()" link="libidn2-idn2.html#idn2-register-ul"/>
+    <keyword type="function" name="idn2_strerror ()" link="libidn2-idn2.html#idn2-strerror"/>
+    <keyword type="function" name="idn2_strerror_name ()" link="libidn2-idn2.html#idn2-strerror-name"/>
+    <keyword type="function" name="idn2_check_version ()" link="libidn2-idn2.html#idn2-check-version"/>
+    <keyword type="function" name="idn2_free ()" link="libidn2-idn2.html#idn2-free"/>
+    <keyword type="macro" name="IDN2_VERSION" link="libidn2-idn2.html#IDN2-VERSION:CAPS"/>
+    <keyword type="macro" name="IDN2_VERSION_NUMBER" link="libidn2-idn2.html#IDN2-VERSION-NUMBER:CAPS"/>
+    <keyword type="macro" name="IDN2_LABEL_MAX_LENGTH" link="libidn2-idn2.html#IDN2-LABEL-MAX-LENGTH:CAPS"/>
+    <keyword type="macro" name="IDN2_DOMAIN_MAX_LENGTH" link="libidn2-idn2.html#IDN2-DOMAIN-MAX-LENGTH:CAPS"/>
+    <keyword type="enum" name="enum idn2_flags" link="libidn2-idn2.html#idn2-flags"/>
+    <keyword type="enum" name="enum idn2_rc" link="libidn2-idn2.html#idn2-rc"/>
+  </functions>
+</book>

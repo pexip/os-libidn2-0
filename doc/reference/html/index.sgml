@@ -1,0 +1,21 @@
+<ONLINE href="http://www.gnu.org/software/libidn/#libidn2">
+<ANCHOR id="libidn2-idn2" href="libidn2/libidn2-idn2.html">
+<ANCHOR id="libidn2-idn2.functions" href="libidn2/libidn2-idn2.html#libidn2-idn2.functions">
+<ANCHOR id="libidn2-idn2.other" href="libidn2/libidn2-idn2.html#libidn2-idn2.other">
+<ANCHOR id="libidn2-idn2.description" href="libidn2/libidn2-idn2.html#libidn2-idn2.description">
+<ANCHOR id="libidn2-idn2.functions_details" href="libidn2/libidn2-idn2.html#libidn2-idn2.functions_details">
+<ANCHOR id="idn2-lookup-u8" href="libidn2/libidn2-idn2.html#idn2-lookup-u8">
+<ANCHOR id="idn2-register-u8" href="libidn2/libidn2-idn2.html#idn2-register-u8">
+<ANCHOR id="idn2-lookup-ul" href="libidn2/libidn2-idn2.html#idn2-lookup-ul">
+<ANCHOR id="idn2-register-ul" href="libidn2/libidn2-idn2.html#idn2-register-ul">
+<ANCHOR id="idn2-strerror" href="libidn2/libidn2-idn2.html#idn2-strerror">
+<ANCHOR id="idn2-strerror-name" href="libidn2/libidn2-idn2.html#idn2-strerror-name">
+<ANCHOR id="idn2-check-version" href="libidn2/libidn2-idn2.html#idn2-check-version">
+<ANCHOR id="idn2-free" href="libidn2/libidn2-idn2.html#idn2-free">
+<ANCHOR id="libidn2-idn2.other_details" href="libidn2/libidn2-idn2.html#libidn2-idn2.other_details">
+<ANCHOR id="IDN2-VERSION:CAPS" href="libidn2/libidn2-idn2.html#IDN2-VERSION:CAPS">
+<ANCHOR id="IDN2-VERSION-NUMBER:CAPS" href="libidn2/libidn2-idn2.html#IDN2-VERSION-NUMBER:CAPS">
+<ANCHOR id="IDN2-LABEL-MAX-LENGTH:CAPS" href="libidn2/libidn2-idn2.html#IDN2-LABEL-MAX-LENGTH:CAPS">
+<ANCHOR id="IDN2-DOMAIN-MAX-LENGTH:CAPS" href="libidn2/libidn2-idn2.html#IDN2-DOMAIN-MAX-LENGTH:CAPS">
+<ANCHOR id="idn2-flags" href="libidn2/libidn2-idn2.html#idn2-flags">
+<ANCHOR id="idn2-rc" href="libidn2/libidn2-idn2.html#idn2-rc">
